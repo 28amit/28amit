@@ -35,6 +35,8 @@ Java         46 mins         ▓░░░░░░░░░░░░░░░░
 Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
+<br>
+<br>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
