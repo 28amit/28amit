@@ -52,7 +52,7 @@ WomanLab [here](https://womanlab.herokuapp.com/) ⚾️
 
 <br>
 
-##📈 my github stats
+## 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=28amit&show_icons=true&theme=gotham" alt="28amit" />
 
