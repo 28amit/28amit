@@ -20,7 +20,7 @@ Hi, i'm [Amit Singh](https://abhishknads.me/), a passionate software engineer fr
 
 Skilled in C++, Java, python, Data Structures and Algorithms. Strong engineering professional with a Bachelor of Technology in computer science.
 
-<div>
+
   <img align="right" alt="GIF" src="https://github.com/28amit/28amit/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Software Engineer Intern at Infineon Technologies
@@ -34,11 +34,11 @@ Java         46 mins         ▓░░░░░░░░░░░░░░░░
 Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
-</div>
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/28amit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<div>
+
 ## Sorting Visualizer
 The concept of visualizing algorithms lets us understand algorithms in a much better way. [here](https://28amit.github.io/Sorting-Visualizer/) 👨
 
@@ -49,8 +49,8 @@ On the same screen we can write your HTML, CSS, JavaScript and also see our Outp
 ## E-commerce Website
 
 WomanLab [here](https://womanlab.herokuapp.com/) ⚾️
-</div>
 
+<br>
 
 📈 my github stats
 
