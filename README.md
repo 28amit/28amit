@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, i'm [Amit Singh](https://abhishknads.me/), a passionate software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Amit Singh](https://medium.com/@amit28amical/data-encryption-standard-des-code-in-java-4a45ad692bae), a passionate software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 Skilled in C++, Java, python, Data Structures and Algorithms. Strong engineering professional with a Bachelor of Technology in computer science.
 
