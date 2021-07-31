@@ -39,13 +39,18 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/28amit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  Run Run!!           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+## Sorting Visualizer
+The concept of visualizing algorithms lets us understand algorithms in a much better way. [here](https://28amit.github.io/Sorting-Visualizer/) 👨
+
+## CODE PLAYER
+
+On the same screen we can write your HTML, CSS, JavaScript and also see our Output [here](https://28amit.github.io/Code-Player/)👨‍💻
+
+## E-commerce Website
+
+WomanLab [here](https://womanlab.herokuapp.com/) ⚾️
+
+
 
 
 📈 my github stats
