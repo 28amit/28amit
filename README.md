@@ -24,7 +24,7 @@ Skilled in C++, Java, python, Data Structures and Algorithms. Strong engineering
   <img align="right" alt="GIF" src="https://github.com/28amit/28amit/blob/main/code.gif?raw=true" width="500" height="320" />
   
   <br>
-- 💼 Software Engineer Intern at Infineon Technologies
+- 💼 Software Engineer Intern at Infineon Technologies<br>
 - 💬 ask me about anything, i am happy to help [email](mailto:amit28amical@gmail.com) :)
 <br>
 <br>
@@ -39,6 +39,7 @@ Python       22 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <br>
 <br>
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
