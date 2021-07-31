@@ -21,7 +21,7 @@ Hi, i'm [Amit Singh](https://abhishknads.me/), a passionate software engineer fr
 Skilled in C++, Java, python, Data Structures and Algorithms. Strong engineering professional with a Bachelor of Technology in computer science.
 
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/28amit/28amit/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Software Engineer Intern at Infineon Technologies
 - 💬 ask me about anything, i am happy to help [email](mailto:amit28amical@gmail.com) :)
